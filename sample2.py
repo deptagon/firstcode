@@ -21,6 +21,7 @@
 # print(f'INVOICE NO: INV-{str(receipt_no).rjust(8,'0')}')
 
 
-name = 'alien'
 
-print(name[::-1])
+names = 'alien'
+
+print(names[::-1])
