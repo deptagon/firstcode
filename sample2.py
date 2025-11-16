@@ -20,8 +20,7 @@
 
 # print(f'INVOICE NO: INV-{str(receipt_no).rjust(8,'0')}')
 
-
-
-names = 'alien'
+names = input("Enter any name: ")
 
 print(names[::-1])
+
